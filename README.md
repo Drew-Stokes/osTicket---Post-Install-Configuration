@@ -118,8 +118,14 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Agents** → **Add New**.  
 2. Add the following agents:  
- - **Jane** (Department: SysAdmins).  
+ - **Jane** (Department: SysAdmins).
+   <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/fbb5cfc68a037dcdc79784785f0f23a6dfe74482/jane_sysadmin.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>   
  - **John** (Department: Support).  
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/fbb5cfc68a037dcdc79784785f0f23a6dfe74482/john_new_agent.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>  
 </details>
 </p>
 <br />
