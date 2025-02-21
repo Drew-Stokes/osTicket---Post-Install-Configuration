@@ -178,11 +178,26 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Manage** → **Help Topics**.  
 2. Click **Add New Help Topic** and create:  
- - 🛑 **Business Critical Outage**  
+ - 🛑 **Business Critical Outage**
+   <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/28f1912eac5d5d9447b0941ef721ff15bbc788f9/business_critical_outage.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p> 
  - 💻 **Personal Computer Issues**  
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/28f1912eac5d5d9447b0941ef721ff15bbc788f9/personal_computing_issues.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
  - 🏢 **Equipment Request**  
- - 🔑 **Password Reset**  
- - ❓ **Other**    
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/28f1912eac5d5d9447b0941ef721ff15bbc788f9/equipment_request.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
+ - 🔑 **Password Reset** 
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/28f1912eac5d5d9447b0941ef721ff15bbc788f9/password_reset.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
+ - ❓ **Other**   
+ <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/28f1912eac5d5d9447b0941ef721ff15bbc788f9/other.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
 </details>
 </p>
 <br />
