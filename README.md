@@ -54,8 +54,14 @@ http://localhost/osTicket
 </p>
 
 ### **Agent Panel vs. Admin Panel**
-- **Admin Panel**: For configuring settings, managing agents, and system-wide configurations.  
-- **Agent Panel**: For managing tickets, responding to users, and handling support requests.  
+- **Admin Panel**: For configuring settings, managing agents, and system-wide configurations.
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/45e81b944c41633c2b56d18666f3f6c95094ac68/osTicket_Admin_panel.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
+- **Agent Panel**: For managing tickets, responding to users, and handling support requests.
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/45e81b944c41633c2b56d18666f3f6c95094ac68/osTicket_Agent_panel.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
 </details>  
 </p>
 <br />
