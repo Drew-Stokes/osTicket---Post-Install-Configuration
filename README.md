@@ -167,21 +167,3 @@ http://localhost/osTicket
 </p>
 <br />
 
-<p>
-**Step 9: Configure Help Topics**
-</p>
-<p>
-<details>
-<summary><b>Click to Expand</b></summary>
-
-1. Navigate to **Admin Panel** → **Manage** → **Help Topics**.  
-2. Click **Add New Help Topic** and create:  
- - 🛑 **Business Critical Outage**  
- - 💻 **Personal Computer Issues**  
- - 🏢 **Equipment Request**  
- - 🔑 **Password Reset**  
- - ❓ **Other**  
-</details>
-</p>
-<br />
-
