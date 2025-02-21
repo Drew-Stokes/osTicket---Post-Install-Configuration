@@ -138,7 +138,12 @@ http://localhost/osTicket
 1. Navigate to **Agent Panel** → **Users** → **Add New**.  
 2. Add the following users:  
  - **Karen**.  
- - **Ken**.    
+ - **Ken**.
+  <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/1ebf27c7eacef88f4ed015745ad0886059dfbe22/new_user_ken.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>
+</details>  
+</p>
 </details>
 </p>
 <br />
