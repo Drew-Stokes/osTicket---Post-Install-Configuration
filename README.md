@@ -91,8 +91,7 @@ http://localhost/osTicket
  - **SysAdmins** (For IT System Administrators).
    <p>
   <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/d22ed5aa9612d318a01bdf474ddcc909d1028a6a/sysadmins.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
-  </p> 
- - **Networking** (For Network-related support).  
+  </p>  
 </details>
 </p>
 <br />
@@ -104,7 +103,10 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Agents** → **Teams**.  
 2. Click **Add New Team** and create:  
- - **Online Banking** (Pulls agents from different departments).  
+ - **Online Banking** (Pulls agents from different departments).
+   <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/7110f415f792dd0329015a36c16b495f2c31f629/online_banking.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p>  
 </details>
 </p>
 <br />
