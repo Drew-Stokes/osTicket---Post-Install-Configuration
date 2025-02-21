@@ -155,9 +155,18 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Manage** → **SLA**.  
 2. Click **Add New SLA** and create:  
- - **Sev-A** (🚨 **Critical** – Grace Period: **1 hour**, Schedule: **24/7**).  
- - **Sev-B** (⚠️ **High** – Grace Period: **4 hours**, Schedule: **24/7**).  
+ - **Sev-A** (🚨 **Critical** – Grace Period: **1 hour**, Schedule: **24/7**).
+   <p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/5d059f9f32157ffe46536e55fac102903c487d7e/sev-a.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>  
+ - **Sev-B** (⚠️ **High** – Grace Period: **4 hours**, Schedule: **24/7**).
+ <p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/5d059f9f32157ffe46536e55fac102903c487d7e/Sev-B.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
  - **Sev-C** (📅 **Normal** – Grace Period: **8 hours**, Schedule: **Business Hours**).
+ <p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/5d059f9f32157ffe46536e55fac102903c487d7e/Sev-C.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 </details>
 </p>
 <br />
