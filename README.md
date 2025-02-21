@@ -26,11 +26,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Step 2: Configure Roles (Permission Groups)
 - Step 3: Configure Departments (Ticket Visibility)
 - Step 4: Configure Teams
-- Step 5: Allow Ticket Creation for Users
-- Step 6: Configure Agents (Support Staff)
-- Step 7: Configure Users (Customers)
-- Step 8: Configure SLA (Service Level Agreements)
-- Step 9: Configure Help Topics
+- Step 5: Configure Agents (Support Staff)
+- Step 6: Configure Users (Customers)
+- Step 7: Configure SLA (Service Level Agreements)
+- Step 8: Configure Help Topics
+
 
 <h2>Configuration Steps</h2>
 
@@ -112,21 +112,7 @@ http://localhost/osTicket
 <br />
 
 <p>
-**Step 5: Allow Ticket Creation for Users**
-<details>
-<summary><b>Click to Expand</b></summary>
-
-1. Navigate to **Admin Panel** → **Settings** → **User Settings**.  
-2. **Uncheck**:  
- - ❌ "Unregistered users can create tickets."  
-3. **Enable**:  
- - ✅ "Registration Required" (Users must register and log in to create tickets).  
-</details>
-</p>
-<br />
-
-<p>
-**Step 6: Configure Agents (Support Staff)**
+**Step 5: Configure Agents (Support Staff)**
 <details>
 <summary><b>Click to Expand</b></summary>
 
@@ -139,20 +125,20 @@ http://localhost/osTicket
 <br />
 
 <p>
-**Step 7: Configure Users (Customers)**
+**Step 6: Configure Users (Customers)**
 <details>
 <summary><b>Click to Expand</b></summary>
 
 1. Navigate to **Agent Panel** → **Users** → **Add New**.  
 2. Add the following users:  
  - **Karen**.  
- - **Ken**.  
+ - **Ken**.    
 </details>
 </p>
 <br />
 
 <p>
-  **Step 8: Configure SLA (Service Level Agreements)**
+**Step 7: Configure SLA (Service Level Agreements)**
 <details>
 <summary><b>Click to Expand</b></summary>
 
@@ -160,7 +146,23 @@ http://localhost/osTicket
 2. Click **Add New SLA** and create:  
  - **Sev-A** (🚨 **Critical** – Grace Period: **1 hour**, Schedule: **24/7**).  
  - **Sev-B** (⚠️ **High** – Grace Period: **4 hours**, Schedule: **24/7**).  
- - **Sev-C** (📅 **Normal** – Grace Period: **8 hours**, Schedule: **Business Hours**).  
+ - **Sev-C** (📅 **Normal** – Grace Period: **8 hours**, Schedule: **Business Hours**).
+</details>
+</p>
+<br />
+
+<p>
+  **Step 8: Configure Help Topics**
+<details>
+<summary><b>Click to Expand</b></summary>
+
+1. Navigate to **Admin Panel** → **Manage** → **Help Topics**.  
+2. Click **Add New Help Topic** and create:  
+ - 🛑 **Business Critical Outage**  
+ - 💻 **Personal Computer Issues**  
+ - 🏢 **Equipment Request**  
+ - 🔑 **Password Reset**  
+ - ❓ **Other**    
 </details>
 </p>
 <br />
