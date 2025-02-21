@@ -73,7 +73,10 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Agents** → **Roles**.  
 2. Click **Add New Role** and create:  
- - **Supreme Admin** (Full permissions).  
+ - **Supreme Admin** (Full permissions).
+   <p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/1f44685b4b26bc7d0be078d2f0a151e0f5742df3/supreme_admin.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 </details>
 </p>
 <br />
