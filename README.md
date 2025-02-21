@@ -42,16 +42,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 ### **Login Pages**
 - **Admin/Analyst Login Page**:  
 http://localhost/osTicket/scp/login.php
+<p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/10439022fd8100b61b32e16ffa1b420a86c17da3/osTicket_admin_login.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 
-markdown
-Copy
-Edit
+
 - **End-User Portal**:  
 http://localhost/osTicket
-
-markdown
-Copy
-Edit
+<p/>
+<img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/10439022fd8100b61b32e16ffa1b420a86c17da3/osTicket_endUser_login.png" height="30%" width="30%" alt="Disk Sanitization Steps"/>
+</p>
 
 ### **Agent Panel vs. Admin Panel**
 - **Admin Panel**: For configuring settings, managing agents, and system-wide configurations.  
