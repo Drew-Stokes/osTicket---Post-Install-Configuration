@@ -88,7 +88,10 @@ http://localhost/osTicket
 
 1. Navigate to **Admin Panel** → **Agents** → **Departments**.  
 2. Click **Add New Department** and create:  
- - **SysAdmins** (For IT System Administrators).  
+ - **SysAdmins** (For IT System Administrators).
+   <p>
+  <img src="https://github.com/Drew-Stokes/osTicket---Post-Install-Configuration/blob/d22ed5aa9612d318a01bdf474ddcc909d1028a6a/sysadmins.png" height="30%" width="30%" alt="Disk Sanitization Steps"/> 
+  </p> 
  - **Networking** (For Network-related support).  
 </details>
 </p>
